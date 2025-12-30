@@ -47,7 +47,7 @@ PLAYWRIGHT_TOOLS = [
 
     # JavaScript & debugging
     "mcp__playwright__browser_evaluate",
-    "mcp__playwright__browser_run_code",
+    # "mcp__playwright__browser_run_code",  # REMOVED - causes Playwright MCP server crash
     "mcp__playwright__browser_console_messages",
     "mcp__playwright__browser_network_requests",
 

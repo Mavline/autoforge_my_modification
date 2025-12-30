@@ -314,7 +314,7 @@ Available tools:
 
 - browser_console_messages - Get browser console output (check for errors)
 - browser_network_requests - Monitor API calls and responses
-- browser_evaluate - Execute JavaScript (use sparingly)
+- browser_evaluate - Execute JavaScript (USE SPARINGLY - debugging only, NOT for bypassing UI)
 
 **Browser Management:**
 
